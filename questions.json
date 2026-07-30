@@ -1,8 +1,27 @@
 {
  "questions": [
-  {"question": "How does the Quran itself describe salat?", "roots": ["s6-l-w"], "status": "pending"},
-  {"question": "What does the Quran say about intercession?", "status": "pending"},
-  {"question": "How is the word kitab used across the Quran?", "roots": ["k-t-b"], "status": "pending"},
-  {"question": "What does the Quran say about who may be called a witness?", "status": "pending"}
+  {
+   "question": "How does the Quran itself describe salat?",
+   "roots": [
+    "s6-l-w"
+   ],
+   "status": "drafted",
+   "drafted": "2026-07-30"
+  },
+  {
+   "question": "What does the Quran say about intercession?",
+   "status": "pending"
+  },
+  {
+   "question": "How is the word kitab used across the Quran?",
+   "roots": [
+    "k-t-b"
+   ],
+   "status": "pending"
+  },
+  {
+   "question": "What does the Quran say about who may be called a witness?",
+   "status": "pending"
+  }
  ]
 }
