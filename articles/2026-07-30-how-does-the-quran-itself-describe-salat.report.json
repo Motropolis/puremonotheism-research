@@ -1,0 +1,38 @@
+{
+ "question": "How does the Quran itself describe salat?",
+ "roots": [
+  "s6-l-w"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 54,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "the noun ṣalāh (صَلَاة) accounting for 83 of those, the verb ṣallā for 12, and related participial forms for the remaining 4",
+     "why": "The packet lists two participial/nominal forms beyond the verb: muṣallī (count 3) and muṣallan (count 1), totalling 4. The article says 'remaining 4', which is arithmetically correct (99-83-12=4), but the packet's total_occurrences field is 99 while the listed forms sum to 99 (83+12+3+1). This is consistent, but the article silently collapses the two distinct participial lemmas into one group without noting the distinction — a minor presentation issue, not a sourcing error. Flagging as warning because the characterisation 'related participial forms' is slightly imprecise but not wrong."
+    },
+    {
+     "quote": "These references overlap and resist being counted with certainty from the text. Whether they specify two, three, or five distinct prayer times cannot be determined from these verses without external information the packet does not provide.",
+     "why": "The article appropriately flags this as an open question, which is good practice. However, earlier in the article (section 8) it asserts 'morning, midday, and night slots referenced' — the packet supports morning and night references (17:78, 11:114) but 'midday' is an interpretive inference not directly stated in any packet verse. Al-Baqara 2:238 mentions 'the midmost prayer' without identifying it as midday. This is a confident interpretive claim dressed as textual description."
+    },
+    {
+     "quote": "The word khushūʿ — often rendered as humility or reverential awe — appears as the quality that makes salat accessible rather than burdensome.",
+     "why": "Al-Baqara 2:45 uses al-khāshiʿīn but does not use the noun khushūʿ. The article translates the participle back into the abstract noun and then glosses it as 'humility or reverential awe' — a Lane-style gloss the packet's lexicon does not supply for this root. The packet contains no lexicon entry for kh-sh-ʿ, so the gloss is imported knowledge, though it is presented cautiously enough ('often rendered as') to avoid being a hard critical error."
+    },
+    {
+     "quote": "Constancy is built into the very grammar of the obligation.",
+     "why": "The claim that aqāma carries a connotation of constancy beyond mere performance is a grammatical/semantic assertion the packet's lexicon does not address — the lexicon entry covers only root s-l-w, not q-w-m. The claim is brought in from outside the packet, though it is a well-known Arabic grammatical point. Flagged as a warning because it is presented as settled rather than as an interpretive inference."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
