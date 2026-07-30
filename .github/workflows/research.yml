@@ -1,0 +1,67 @@
+name: research
+
+on:
+  schedule:
+    # Tuesdays 06:00 UTC. Cron on Actions is best-effort and can run late.
+    - cron: "0 6 * * 2"
+  workflow_dispatch:
+    inputs:
+      question:
+        description: "Question to research (blank = take from questions.json)"
+        required: false
+      roots:
+        description: "Space-separated root keys (blank = auto-resolve)"
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The corpus is ~100MB and lives in another repo. Cache it rather than
+      # cloning it; a cold run just refetches from the CDN.
+      - uses: actions/cache@v4
+        with:
+          path: .corpus-cache
+          key: corpus-v1.8.0
+
+      - name: Draft and verify
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CORPUS_BASE: https://cdn.jsdelivr.net/gh/Motropolis/puremonotheism-data@v1.8.0
+        run: |
+          if [ -n "${{ inputs.question }}" ]; then
+            python -m research.cli write "${{ inputs.question }}" || true
+          else
+            python -m research.cli next --count 1 || true
+          fi
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: research/draft-${{ github.run_number }}
+          title: "Draft: ${{ inputs.question || 'next queued question' }}"
+          commit-message: "Add research draft"
+          labels: research-draft
+          body: |
+            Automated draft. **Do not merge without reading it.**
+
+            The verification report sits alongside the article as
+            `*.report.json`. Check the frontmatter `verification` field first.
+            If it says FAILED VERIFICATION the draft made claims it could not
+            source, and the report lists exactly which.
+
+            Reviewer checklist:
+            - [ ] Every verse reference resolves and says what the article claims
+            - [ ] No occasions of revelation, hadith, or named commentators
+            - [ ] Lane cited as linguistic evidence, not doctrinal authority
+            - [ ] "Open questions" section present and honest
+            - [ ] Claims proportionate to how many verses actually support them
