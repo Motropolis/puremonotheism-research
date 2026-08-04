@@ -1,0 +1,34 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane's Arabic-English Lexicon (1863–93) records the root's primary sense as 'to make a pair' or 'to join one thing to another,' with derived senses of intercession understood as 'joining oneself' to another's cause.",
+     "why": "The packet's Lane entry gives only the gloss 'He made it to be a; he made it; to be a' for the headword شَفَعَهُ. The characterisation 'joining oneself to another's cause' as a derived sense is not present in the packet's lexicon entries and appears to be outside knowledge."
+    },
+    {
+     "quote": "The subject here appears from context to be angels",
+     "why": "The packet provides only the verse text of 21:28 and its two translations. The identification of the subject as angels is an interpretive claim drawn from outside context not supplied in the packet."
+    },
+    {
+     "quote": "across these four verses a consistent pattern emerges: intercession is not independently possible, but something happens after divine permission is granted",
+     "why": "This harmonising interpretation is presented with some confidence, but the packet shows genuine ambiguity; the article itself later acknowledges the tension cannot be reconciled from the verses alone. Confidence level slightly overstated here."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
