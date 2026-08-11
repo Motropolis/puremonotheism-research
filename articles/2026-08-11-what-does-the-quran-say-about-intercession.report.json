@@ -1,0 +1,34 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "The root sh-f-3 (شفع) appears 31 times in the Quran across five grammatical forms. The evidence packet supplies all of them.",
+     "why": "The packet confirms 31 total occurrences and five forms, so the count is correct. However, claiming 'the evidence packet supplies all of them' when only ~27 verses are listed (forms sum to 31 tokens but some forms like yashfa'u=5 may have verses not individually shown) is a mild overreach the packet cannot fully confirm."
+    },
+    {
+     "quote": "Lane records that the base verb شَفَعَهُ means 'he made it a pair,' while the derived forms cover 'he accepted intercession for him' and 'I asked him to make intercession for me to such a one' (Lane, Arabic-English Lexicon, authorities cited: S, Mgh, Msb, K, TA)",
+     "why": "The Lane entry for شَفَّعَ ('I accepted his intercession') lists no authorities in the packet, yet the article implies the full authority list (S, Mgh, Msb, K, TA) applies to all entries. Those authorities are only listed under the first headword شَفَعَهُ."
+    },
+    {
+     "quote": "The grammar of the Arabic could support either reading, and the packet does not supply cross-references that would resolve it.",
+     "why": "This is a confident grammatical claim about Az-Zukhruf 43:86 that is not supported by any lexicon or grammatical analysis in the packet; presented as a genuine ambiguity rather than an outside assertion, which softens but does not eliminate the concern."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
