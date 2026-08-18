@@ -1,0 +1,34 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "the two occurrences of shāfiʿ (both at Al-Muddaththir 74:48) appear in a single verse",
+     "why": "The packet lists shāfiʿ with count 2, but both occurrences are attributed to Al-Muddaththir 74:48 which reads 'shafāʿatu al-shāfiʿīn' — only one token of shāfiʿ appears there (the plural shāfiʿīn). The article's claim that both occurrences are in that single verse may be correct but cannot be verified from the packet, which does not list the second shāfiʿ occurrence by reference."
+    },
+    {
+     "quote": "The dominant usage — across at least 30 of the 31 occurrences — concerns intercession as mediation between a person and God",
+     "why": "The packet lists 31 total occurrences but the article can only verify 27 verse-level instances from the supplied verses. Asserting that 'at least 30 of 31' concern eschatological/mediatory intercession goes beyond what the packet's verse list can confirm, since not all 31 occurrences are mapped to specific verses in the packet."
+    },
+    {
+     "quote": "As-Sajda 32:4 denies any walī or shafīʿ 'beside Him' — which, read alongside 2:255 and 10:3, could mean 'apart from His authorisation' rather than an absolute absence of any intercessory figure.",
+     "why": "This interpretive resolution is presented as one of two plausible readings, but the packet shows genuine ambiguity and the article's framing leans toward the permission-based reading without flagging that the plain reading of 32:4 is an absolute denial. The confidence of the interpretive synthesis is slightly ahead of what the packet alone supports."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
