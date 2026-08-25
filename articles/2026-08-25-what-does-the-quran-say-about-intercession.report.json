@@ -1,0 +1,34 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane records that the base form shafa'ahu means \"he made it to be a [pair]; he made it to be a [couple],\" citing the authorities S, Mgh, Msb, K, and TA.",
+     "why": "The packet's lexicon entry for shafa'ahu gives a garbled/incomplete gloss ('He made it to be a; he made it; to be a') and lists authorities S, Mgh, Msb, K, TA. The article reconstructs a clean, interpretive paraphrase ('he made it to be a pair; he made it to be a couple') that goes beyond what the packet's fragmentary gloss actually says, presenting it as a settled Lane reading."
+    },
+    {
+     "quote": "The lexical sense of the root is fundamentally about pairing or doubling — the intercessor 'joins' the petitioner to bring a request.",
+     "why": "This interpretive claim about the root's 'fundamental' lexical sense is derived from a Lane entry that is fragmentary in the packet. Presenting it as settled etymology goes beyond what the packet can support."
+    },
+    {
+     "quote": "(Al-Baqara 2:255), the Throne Verse, frames this as a rhetorical question that answers itself",
+     "why": "The identification of 2:255 as 'the Throne Verse' (Ayat al-Kursi) is a name from Islamic tradition/exegesis not present anywhere in the evidence packet. This is outside knowledge smuggled in."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
