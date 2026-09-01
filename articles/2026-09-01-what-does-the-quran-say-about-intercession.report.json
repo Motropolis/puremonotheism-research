@@ -1,0 +1,38 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane records that the root covers making something a pair (شَفَعَهُ), accepting intercession (شَفَّعَ), seeking intercession (اِسْتَشْفَعْتُهُ), and being granted intercession (تشفّع).",
+     "why": "The article presents Lane's glosses as settled definitions, but the packet's lexicon entries are fragmentary and the glosses incomplete. Presenting them as definitive Lane content slightly overstates what the packet actually records."
+    },
+    {
+     "quote": "At Al-An'aam 6:94 the scene is the Day of Judgment, where those who assumed they had intercessors arrive to find them absent.",
+     "why": "The article states confidently that 6:94 is set on the Day of Judgment. The packet's verse text supports this reading but does not explicitly confirm it; some ambiguity exists about the temporal frame."
+    },
+    {
+     "quote": "The word translated 'share' is شُرَكَاء — partners or associates — linking the intercession claim directly to the concept of shirk.",
+     "why": "The article interprets شُرَكَاء as definitively linking to shirk as a theological concept. While the lexical connection is plausible, the packet contains no lexicon entry for this root and no commentary confirming this interpretive link; this is a confident interpretive claim going beyond what the packet supplies."
+    },
+    {
+     "quote": "Those verses address the situation of a soul at the point of reckoning with no outside help.",
+     "why": "Characterising 6:51 and 6:70 as specifically addressing 'the point of reckoning' is an interpretive narrowing not directly confirmed by the packet verses, which speak more generally."
+    }
+   ],
+   "checked_claims": 38,
+   "passed": true
+  }
+ ]
+}
