@@ -1,0 +1,38 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane records the basic semantic field of sh-f-3: to make something a pair, to join one thing to another — hence intercession as the act of 'joining oneself to' another's cause.",
+     "why": "The packet's Lane entry gives 'He made it to be a; he made it; to be a' (truncated/garbled) and entries about accepting intercession, but does not cleanly gloss the root as 'to join one thing to another' or 'joining oneself to another's cause.' The article presents a polished Lane derivation that goes beyond what the packet's lexicon entries actually state."
+    },
+    {
+     "quote": "Lane also records shaffaʿa as 'I accepted his intercession for him,' pointing to the transactional, triadic structure the root implies",
+     "why": "The packet attributes 'I accepted his intercession; for him' to the headword شَفَّعَ with no authorities listed. The article uses this to assert a broader structural claim ('triadic structure') that the bare gloss does not fully support."
+    },
+    {
+     "quote": "The awe language is significant: it signals that even those capable of intercession stand in subordination, not independent authority.",
+     "why": "This interpretive conclusion goes beyond what the verse (21:28) alone establishes; the packet shows the verse but provides no exegetical support for this specific interpretive framing, making it a confident interpretation where the packet shows only the raw text."
+    },
+    {
+     "quote": "The text treats 'these are our intercessors with God' as a slogan of those who take partners alongside God, not as a legitimate theological position.",
+     "why": "Characterising this as a generalised Quranic stance extrapolates from a handful of verses to a claim about 'the text' as a whole; the packet verses support the pattern but the generalisation slightly overstates what the limited sample can prove."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
