@@ -1,0 +1,46 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane records that the root sh-f-3 carries the core sense of making something paired or even—a 'shafīʿ' being one who joins himself to another as an advocate or supporter.",
+     "why": "The Lane entries in the packet do not include the gloss about 'shafīʿ being one who joins himself to another as an advocate.' The packet's lexicon entries cover شَفَعَهُ, شَفَّعَ, تشفّع, and اِسْتَشْفَعْتُهُ but do not define شَفِيع directly. The article attributes a specific Lane definition to this form that is not in the packet."
+    },
+    {
+     "quote": "Lane's authorities (S, Mgh, Msb, K, TA) also list the derived meaning of accepted intercession (shaffaʿa: 'I accepted his intercession for him') and the causative of seeking it (istashshafaʿtu: 'I asked him to make intercession for me').",
+     "why": "The packet's lexicon entry for شَفَّعَ lists no authorities (empty array), yet the article implies the full authority list (S, Mgh, Msb, K, TA) covers these derived meanings. Only the headword شَفَعَهُ is associated with those authorities."
+    },
+    {
+     "quote": "The context here (the surrounding verses describe those who neglected prayer, did not feed the poor, and denied the Day of Judgment) restricts the referent to a particular group",
+     "why": "The article describes the context of 74:48 by referencing surrounding verses. Those surrounding verses are not in the evidence packet, so this contextual claim relies on outside knowledge."
+    },
+    {
+     "quote": "The rhetorical weight ('how many angels') suggests the point is to close off the assumption that any quantity of heavenly beings constitutes an independent resource.",
+     "why": "This is a confident interpretive claim presented as settled meaning, while the packet shows the verse is genuinely open to multiple readings about the role of angels."
+    },
+    {
+     "quote": "The question in 10:18—'Would ye inform Allah of something He knows not?'—turns the logic of intercession back on itself: if the proposed intercessor were truly capable of something God did not already will, that would imply a limit on God's knowledge.",
+     "why": "This theological inference (linking independent intercession to a limit on divine knowledge) goes beyond what the verse text in the packet states; it is confident interpretation presented as the verse's logic."
+    },
+    {
+     "quote": "The Yusuf Ali rendering for this verse reads 'received permission from Most Gracious,' but the Pickthall rendering stays closer to the Arabic ittakhadha ʿinda al-raḥmāni ʿahdan ('taken a covenant with the Most Merciful').",
+     "why": "The article makes a comparative claim about translation fidelity to the Arabic. The packet's Yusuf Ali translation of 19:87 reads 'received permission from Most Gracious,' which does differ from Pickthall, but adjudicating which is 'closer to the Arabic' is an interpretive judgment not supported by any lexicon entry for ʿahd in the packet."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
