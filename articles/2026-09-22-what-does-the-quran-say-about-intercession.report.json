@@ -1,0 +1,42 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane records the core semantic field as pairing or coupling (شَفَعَهُ: \"he made it to be a pair\"), with derived senses of accepted intercession (شَفَّعَ: \"I accepted his intercession for him\")",
+     "why": "The article presents Lane glosses as settling the semantic field and derived senses. The packet's lexicon entries are fragmentary and do not fully support this confident presentation, though the glosses quoted do match the packet entries."
+    },
+    {
+     "quote": "One occurrence, Al-Fajr 89:3, deploys the noun al-shaf' simply as \"the even\" in a sequence of oaths alongside \"the odd,\" which appears to be a distinct usage with no bearing on the intercession question.",
+     "why": "The packet translations ('the Even and the Odd' / 'by the even and odd') support this reading, but the claim that it has 'no bearing on the intercession question' is an interpretive assertion the packet cannot confirm or deny."
+    },
+    {
+     "quote": "The two translations differ on who holds the covenant — the intercessor or the one interceded for — and the Arabic is genuinely ambiguous on pronoun reference here.",
+     "why": "The article asserts genuine grammatical ambiguity in 19:87 as a settled fact. While the translations do differ, the packet does not include grammatical analysis to confirm the ambiguity is real rather than a translational inconsistency."
+    },
+    {
+     "quote": "The absolute-sounding negations in Cluster One thus describe the situation of those who relied on unauthorised intercessors, not a universal elimination of the concept.",
+     "why": "This reconciliation is presented with confidence, but the packet does not contain exegetical support for this reading. It is an interpretive conclusion the packet's verses alone cannot establish."
+    },
+    {
+     "quote": "An-Najm 53:26 is notable in that it explicitly places angels in the category of beings whose intercession counts for nothing without that double condition — which suggests the restriction applies even to beings generally regarded as close to God.",
+     "why": "'Generally regarded as close to God' is a generalisation drawing on outside knowledge about Islamic theology rather than anything in the packet."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
