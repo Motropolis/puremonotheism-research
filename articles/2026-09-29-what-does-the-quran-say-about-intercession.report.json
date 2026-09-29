@@ -1,0 +1,34 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "The implied logic is that claiming intercessors with God is tantamount to ascribing to God ignorance of something He does not know—a form of shirk (association).",
+     "why": "The article introduces the Arabic theological term 'shirk' and its definition as a settled gloss on 10:18, but the packet contains no lexicon entry or verse commentary establishing this connection; it is imported outside knowledge presented as if derivable from the text."
+    },
+    {
+     "quote": "Lane records that the root covers 'making something a pair,' and that derived forms include the noun shafāʿa (intercession), shafīʿ (intercessor), and the verb yashfaʿ (to intercede)",
+     "why": "The packet's Lane entry gives fragmented glosses and does not explicitly list these three derived forms with those meanings; the article presents the derivations more neatly than the lexicon entry supports, slightly over-stating what Lane settles."
+    },
+    {
+     "quote": "The covenant (ʿahd) and bearing witness to truth (shahida bil-ḥaqq) appear as qualifying conditions, though the text does not elaborate on what those conditions entail in concrete terms.",
+     "why": "Minor warning only: the article presents these as 'qualifying conditions on the intercessor's side' with some confidence, but the packet verses are genuinely ambiguous about whether these are conditions on the intercessor or the interceded-for; the article's framing is interpretively confident where the packet shows ambiguity."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
