@@ -1,0 +1,42 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane records that the root conveys making something a pair or couple, and from this the idea of joining oneself to another's cause — intercession as adding one party's weight to another's.",
+     "why": "The article presents this etymological-to-semantic derivation as settled Lane content. The packet's lexicon entry for sh-f-3 gives 'He made it to be a pair' as the primary gloss but does not explicitly state the conceptual bridge to intercession as 'adding weight.' This is the article's interpretive extension beyond what the lexicon entry says."
+    },
+    {
+     "quote": "The intercessors here — identified in context as those described as God's 'servants,' likely angels",
+     "why": "The article identifies the intercessors in 21:28 as 'likely angels.' The packet verse for 21:28 does not contain the word 'servants' or 'angels'; the article is importing contextual identification from outside the packet evidence, presented with only modest hedging ('likely')."
+    },
+    {
+     "quote": "In context — the verses preceding it describe people who did not pray, did not feed the poor, and engaged in falsehood — this denial of intercession appears tied to the character of those being denied",
+     "why": "The article references contextual verses preceding 74:48 (about not praying, not feeding the poor, engaging in falsehood) that are not in the packet. This is outside-knowledge smuggled in to interpret 74:48."
+    },
+    {
+     "quote": "The immediately preceding verse (Az-Zumar 39:43) rejects taking intercessors besides God — not intercession as such.",
+     "why": "This interpretive conclusion is reasonable given the packet, but the article states it as settled rather than as one possible reading, where the packet shows the tension is genuine."
+    },
+    {
+     "quote": "Al-Anbiyaa refers to 'servants' the audience claims as God's children; the passage in An-Najm follows a discussion of angelic figures.",
+     "why": "The claim that Al-Anbiyaa 21:28's context involves the audience claiming these as 'God's children,' and that An-Najm follows 'a discussion of angelic figures,' relies on surrounding verses not present in the packet."
+    }
+   ],
+   "checked_claims": 54,
+   "passed": true
+  }
+ ]
+}
