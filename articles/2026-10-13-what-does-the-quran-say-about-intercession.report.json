@@ -1,0 +1,38 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane records the core sense of shaʿa as 'he made it a pair/couple'",
+     "why": "The Lane entry headword is 'شَفَعَهُ' glossed as 'He made it to be a; he made it; to be a' — the article paraphrases this as 'he made it a pair/couple,' which is a reasonable inference but goes slightly beyond what the truncated gloss actually says in the packet."
+    },
+    {
+     "quote": "The form shafāʿa (noun, 13 occurrences) is the abstract act of intercession; shafīʿ (noun, 10 occurrences) is the intercessor-agent; yashfaʿu (verb, 5 occurrences) is the action of interceding; shāfiʿ (noun, 2 occurrences) is a participial form meaning 'one who intercedes'; and shafʿ (1 occurrence)",
+     "why": "These counts match the packet exactly and the glosses are reasonable, but the article presents them as settled definitions ('is the abstract act,' 'is the intercessor-agent') where the packet's lexicon entries are sparse and do not explicitly confirm these distinctions as Lane's own glosses for each form."
+    },
+    {
+     "quote": "This usage is consistent with Lane's recording of the root's basic sense of pairing or adding one's weight to another's matter.",
+     "why": "The packet's Lane entry does not contain the phrase 'adding one's weight to another's matter'; this gloss is imported from outside the packet and attributed to Lane without support."
+    },
+    {
+     "quote": "angels are named in 53:26; others are implied elsewhere",
+     "why": "Confident claim that angels are 'named' — 53:26 says 'angels in the heavens' which the packet confirms, so this is acceptable — but the article's broader framing that angels are the primary authorized intercessors goes slightly beyond what the conditional-permission verses collectively state."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
