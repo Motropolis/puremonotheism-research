@@ -1,0 +1,53 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [
+    "74:42 is cited but is not in the evidence packet"
+   ],
+   "critical": [
+    {
+     "quote": "",
+     "why": "verifier returned malformed JSON"
+    }
+   ],
+   "warnings": [],
+   "checked_claims": 0,
+   "passed": false
+  },
+  {
+   "n": 2,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane records that the core semantic field of sh-f-ʿ involves making something a pair — adding a unit to create an even number — and by extension, joining oneself to another as an advocate or supporter.",
+     "why": "The packet's Lane entries are fragmentary and do not clearly support the 'adding a unit to create an even number' gloss as a Lane-derived claim; the article presents this as Lane-sourced lexical content that goes beyond what the entries actually state."
+    },
+    {
+     "quote": "From this, the derived senses include 'he accepted his intercession for him' and 'I asked him to make intercession for me to such a one' (Lane, citing authorities including S, Mgh, Msb, K, and TA).",
+     "why": "The authorities S, Mgh, Msb, K, TA are listed in the packet only under the headword شَفَعَهُ, not under the intercession-related senses. The article implies Lane cites those authorities for the intercession senses, which the packet does not confirm."
+    },
+    {
+     "quote": "some verses use language that sounds absolute ('no intercession,' 2:48, 2:254), while others explicitly allow for intercession under the condition of God's leave (2:255, 10:3). A careful reading, following the packet, resolves this not as contradiction but as population-specific",
+     "why": "This resolution is a confident interpretive claim presented as following from the packet; the packet shows genuine ambiguity and contains no meta-commentary resolving the tension. The article presents one interpretive stance as settled."
+    },
+    {
+     "quote": "The expected answer is: no one — meaning that intercession without His leave is simply not possible. But the verse does not say intercession with His leave is impossible.",
+     "why": "This inference drawn from a rhetorical question in 2:255 is presented as a settled reading, while the packet shows the verse is framed as a rhetorical question whose implications are genuinely open to interpretation."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
