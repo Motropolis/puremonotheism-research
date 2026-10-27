@@ -1,0 +1,95 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [
+    "74:39 is cited but is not in the evidence packet"
+   ],
+   "critical": [
+    {
+     "quote": "Al-Muddaththir 74:48 states: \"The mediation of no mediators will avail them then.\" The immediate context (74:39–47, not in the packet but referenced by the verse's own phrasing \"them\")",
+     "why": "The article invokes verses 74:39–47 as context that explains the referent of 'them' in 74:48. These verses are not in the evidence packet, making this a use of outside knowledge to interpret a packet verse."
+    },
+    {
+     "quote": "None shall have the power of intercession, but such a one as has made a covenant with the Lord Most Gracious. (Yusuf Ali)",
+     "why": "The Yusuf Ali translation in the packet for 19:87 reads 'None shall have the power of intercession, but such a one as has received permission from Most Gracious.' The article quotes it as 'has made a covenant with the Lord Most Gracious,' which differs materially from the packet's Yusuf Ali wording. The Pickthall rendering ('save him who hath made a covenant with his Lord') is in the packet, but the article attributes the covenant wording to Yusuf Ali."
+    },
+    {
+     "quote": "Al-Anbiyāʾ 21:28 follows the same structure but adds a condition on the object of intercession: 'they cannot intercede except for him whom He accepteth, and they quake for awe of Him.' The intercessors here — in context, the angels of the surrounding verses — intercede only for those already accepted by God",
+     "why": "The article asserts that the intercessors in 21:28 are 'the angels of the surrounding verses.' Verses surrounding 21:28 are not in the packet; this identification relies on outside knowledge not supported by the evidence packet."
+    }
+   ],
+   "warnings": [
+    {
+     "quote": "Lane records the core semantic field as making something into a pair (shafiʿ is literally the 'coupled' one, as opposed to witr, the odd), and from that extending to one who joins another as an advocate — intercession as the act of adding oneself to another's cause.",
+     "why": "The packet's Lane entries do not contain this etymology or the 'coupled one / joined advocate' derivation explicitly. The article presents this derivation as settled Lane content, but the packet's lexicon entries are sparse and do not reproduce this gloss verbatim."
+    },
+    {
+     "quote": "Lane's authorities (S, Mgh, Msb, K, TA) confirm this as established classical usage.",
+     "why": "The authorities list is only attached to the first headword entry (شَفَعَهُ) in the packet; the article implies they validate the etymological/intercession semantic field broadly, which the packet does not explicitly show."
+    },
+    {
+     "quote": "The verse neither endorses seeking angelic intercession nor denies that intercession with divine permission can exist; it subordinates the entire concept to God's will and choice.",
+     "why": "This interpretive conclusion is presented with confidence, but the packet shows genuine ambiguity about whether 53:26 is descriptive, restrictive, or something else; a confident closure should be flagged."
+    },
+    {
+     "quote": "Claiming intercessors apart from God is presented as a theological error. The idol-intercessor passages treat the expectation of independent mediation as a form of shirk.",
+     "why": "The term 'shirk' does not appear in any of the packet verses cited; this is an interpretive label drawn from outside theological tradition applied to the verses without direct textual support in the packet."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": false
+  },
+  {
+   "n": 2,
+   "mechanical": [],
+   "critical": [
+    {
+     "quote": "Lane records that the basic verb *shaʿafa* means \"he made it to be a pair,\" with *tashaffaʿa* carrying the sense \"he was granted intercession\" and *istaushfaʿtuhu ilā fulān* meaning \"I asked him to make intercession for me to such a one\" (Lane, *Arabic-English Lexicon*, 1863–93, citing S, Mgh, Msb, K, TA).",
+     "why": "The article attributes the citation of authorities (S, Mgh, Msb, K, TA) to all three glosses. The packet's lexicon entry only lists those authorities under the first headword 'شَفَعَهُ'; the entries for 'تشفّع' and 'اِسْتَشْفَعْتُهُ' have empty authority lists. Attributing the same authorities to all three glosses misrepresents the packet."
+    },
+    {
+     "quote": "the basic verb *shaʿafa* means \"he made it to be a pair\"",
+     "why": "The article renders the headword as 'shaʿafa' (ش ع ف), but the packet's lexicon headword is 'شَفَعَهُ' (sh-f-3). This is a transcription error that mislabels the root, potentially introducing a different Arabic root not present in the packet."
+    },
+    {
+     "quote": "Al-Yunus 10:18 states it most directly",
+     "why": "The surah is referred to as 'Al-Yunus' — the packet names it 'Yunus 10:18' without the 'Al-' prefix. Minor, but more critically the article elsewhere writes 'Al-Az-Zumar' and 'Al-Nisaa' with inconsistent prefixes not matching packet naming. These are style issues only, so not flagging separately — however 'Al-Yunus' is not a name used in the packet and could be flagged as an introduced label."
+    },
+    {
+     "quote": "The Arabic *lillāhi al-shafāʿatu jamīʿan* — literally \"to God belongs intercession, all of it\"",
+     "why": "The article provides a transliteration and claims it is a literal rendering of the Arabic of 39:44. The packet provides the Arabic but no transliteration. The article's transliteration 'lillāhi al-shafāʿatu jamīʿan' is outside the packet; this is introduced outside knowledge being presented as a direct rendering of the Arabic text."
+    }
+   ],
+   "warnings": [
+    {
+     "quote": "Reading across all 30 relevant occurrences",
+     "why": "The article counts 30 relevant occurrences (excluding 89:3) but the packet lists the root as having 31 total occurrences across specific forms. The article's count of 30 'relevant' verses cannot be verified from the packet alone, as the packet may not contain all 31 verses."
+    },
+    {
+     "quote": "Several verses are structurally different: they deny intercession except under stated conditions.",
+     "why": "The article presents this as a settled structural distinction resolving tension between 'absolute' and 'conditional' denials, but the packet shows genuine ambiguity — the same Day is referenced in both absolute and conditional verses. The article's confident taxonomic resolution goes beyond what the packet can establish."
+    },
+    {
+     "quote": "Al-Anbiyaa 21:28 and An-Najm 53:26 mention angels in this role",
+     "why": "21:28 uses 'they' (يشفعون) without explicitly specifying angels in the verse text provided. The packet's verse does not name angels; that identification requires contextual inference the packet cannot fully support."
+    },
+    {
+     "quote": "The surrounding verses address those who 'have wronged themselves' and those who 'disbelieve.'",
+     "why": "The article makes claims about 'surrounding verses' of 2:48 and 2:123, but only those two verses are in the packet. The characterisation of surrounding context draws on outside knowledge."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": false
+  }
+ ]
+}
