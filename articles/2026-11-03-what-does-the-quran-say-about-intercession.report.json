@@ -1,0 +1,38 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "The evidence packet contains 26 verse-occurrences bearing on the question.",
+     "why": "The packet contains 26 verse entries but the article presents this as a precise count without noting that some verses (e.g. 4:85) use the root in a non-eschatological sense; minor but the number is stated confidently as if derived from analysis rather than a simple list count."
+    },
+    {
+     "quote": "Lane records the basic semantic range as: making something a pair or even number; granting intercession; and seeking intercession on behalf of another.",
+     "why": "The packet's Lane entries are fragmentary and partially garbled ('He made it to be a; he made it; to be a'). Presenting these as a clean, settled 'semantic range' overstates what the lexicon entries actually establish."
+    },
+    {
+     "quote": "The context implies angelic or exalted beings",
+     "why": "The claim that 21:28 'implies angelic or exalted beings' is an interpretive inference; the packet supplies no surrounding context verses to confirm this, so it is presented more confidently than the evidence supports."
+    },
+    {
+     "quote": "The qualifier here — a covenant (ʿahd) with God — shifts the focus to the condition of the one for whom intercession might be sought, or possibly to whoever intercedes; the Arabic pronoun is ambiguous about which referent holds the covenant.",
+     "why": "Presenting grammatical ambiguity is appropriate, but the article then uses this ambiguity as a substantive analytical point without packet evidence confirming the Arabic pronoun is genuinely disputed — a mild overreach given the packet only supplies translations."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
