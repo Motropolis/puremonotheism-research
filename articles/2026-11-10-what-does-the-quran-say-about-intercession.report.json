@@ -1,0 +1,34 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane records that the root carries the basic sense of 'making a pair' or 'coupling,' from which the derivative meaning of standing alongside another in petition—intercession—is built (Lane, Arabic-English Lexicon, citing S, Mgh, Msb, K, TA).",
+     "why": "The lexicon entry for شَفَعَهُ gives an incomplete/garbled gloss ('He made it to be a; he made it; to be a') and does not explicitly state the basic sense is 'making a pair/coupling' leading to intercession. The article presents a cleaner interpretive gloss than the packet strictly supports, though the authorities cited (S, Mgh, Msb, K, TA) do match the packet entry."
+    },
+    {
+     "quote": "The referent of 'they' in Al-Anbiyāʾ 21:28 is beings who know God's knowledge.",
+     "why": "The article characterises the referent as 'beings who know God's knowledge' but the packet verse only says 'He knoweth what is before them and what is behind them, and they cannot intercede…'. The packet does not supply prior context to confirm the identity of 'they'; this gloss is an interpretive addition beyond what the packet supports."
+    },
+    {
+     "quote": "Al-Fajr 89:3 (al-shafʿ wa-l-watr, 'the Even and the Odd') uses a cognate form in what both translators render as a numerical or rhythmic oath.",
+     "why": "Describing 89:3 as a 'numerical or rhythmic oath' goes slightly beyond what the packet shows; the packet translations say only 'the Even and the Odd' / 'By the even and odd' without characterising it as rhythmic. Minor interpretive addition, not sourced to the packet."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
