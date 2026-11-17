@@ -1,0 +1,74 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [
+    {
+     "quote": "The evidence packet contains 30 occurrences of the root sh-f-3 (شفع) across the Quran",
+     "why": "The packet states total_occurrences is 31, not 30. The article subtracts the 89:3 occurrence (شَفْع) to arrive at 30, but then claims '30 occurrences' are in the packet itself — the packet number is 31, so describing the packet as containing 30 is a misstatement of the packet data."
+    },
+    {
+     "quote": "the remaining 30 occurrences are what this article examines",
+     "why": "The form counts in the packet sum to: 13 + 10 + 5 + 2 + 1 = 31. Subtracting the one شَفْع occurrence leaves 30, which is a calculation the article performs outside the packet; the packet itself does not state that 30 occurrences relate to intercession, so the precise figure 30 is an inference not directly supported by the packet."
+    },
+    {
+     "quote": "Lane records the basic sense as 'making something a pair' or 'joining' (from authorities S, Mgh, Msb, K, TA)",
+     "why": "The packet's Lane entry for شَفَعَهُ gives the gloss 'He made it to be a; he made it; to be a' — not 'making something a pair' or 'joining.' The article paraphrases and tidies the gloss in a way that goes beyond what the packet actually records, attributing a cleaner meaning than the fragmentary entry supports."
+    }
+   ],
+   "warnings": [
+    {
+     "quote": "The referent of 'them' in context is those who failed to feed the poor and join those who pray — the condemned.",
+     "why": "The packet provides only the single verse 74:48 with no surrounding context. The identification of the referent as those who failed to feed the poor is supplied from outside the packet."
+    },
+    {
+     "quote": "(plausibly angels given the surrounding context in the packet)",
+     "why": "The article acknowledges this is a plausible inference but the packet contains no surrounding context for 21:28 to confirm the subject is angels; the article nonetheless leans toward that identification."
+    },
+    {
+     "quote": "Whether these two criteria describe the same thing, complementary things, or different populations is not resolved in the packet.",
+     "why": "Minor positive note: the article appropriately flags ambiguity here, which is correct practice."
+    },
+    {
+     "quote": "The critique is not simply that the intercessors won't work. It is that positing independent intercessors beside God misrepresents reality — it claims God has partners in knowledge or authority that he does not have.",
+     "why": "This interpretive synthesis goes beyond what any single verse in the packet states; it is a confident theological conclusion drawn across multiple verses without acknowledging that this is the article's own reading."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": false
+  },
+  {
+   "n": 2,
+   "mechanical": [
+    "21:26 is cited but is not in the evidence packet"
+   ],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "Lane's Arabic-English Lexicon records that the root sh-f-ʿ carries the sense of making something into a pair or couple, and that the derived forms cover the act of intercession, the acceptance of intercession (shaffaʿa: 'I accepted his intercession for him'), and the seeking of intercession (istashshafaʿtu-hu: 'I asked him to make intercession for me to such a one'). Lane cites authorities including S, Mgh, Msb, and K.",
+     "why": "The lexicon entry in the packet records authorities S, Mgh, Msb, K, TA only for the first headword (شَفَعَهُ). The other three headwords (شَفَّعَ, تشفّع, اِسْتَشْفَعْتُهُ) list no authorities. The article implies Lane cites S/Mgh/Msb/K across the derived forms, which overstates what the packet shows."
+    },
+    {
+     "quote": "The *they* here refers, in context, to beings who are God's servants (the verse continues the subject from 21:26–27).",
+     "why": "The article references verses 21:26–27 to establish context, but neither 21:26 nor 21:27 appears in the evidence packet. This is outside knowledge used to gloss a packet verse."
+    },
+    {
+     "quote": "Mapping the evidence across all 31 occurrences produces a consistent core",
+     "why": "The packet lists 31 total occurrences for the root but only supplies ~26 verse entries. The article claims to have mapped 'all 31 occurrences,' which goes beyond what the packet actually provides, implying access to verses not in the packet."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": false
+  }
+ ]
+}
