@@ -1,0 +1,76 @@
+{
+ "question": "What does the Quran say about intercession?",
+ "roots": [
+  "sh-f-3"
+ ],
+ "translations": [
+  "pickthall",
+  "yusufali"
+ ],
+ "packet_verses": 26,
+ "attempts": [
+  {
+   "n": 1,
+   "mechanical": [],
+   "critical": [
+    {
+     "quote": "The mediation of no mediators will avail them then — said specifically in a context of people who did not pray, did not feed the poor, and disbelieved (the surrounding context in that surah, though the full context is not in the packet).",
+     "why": "The article asserts specific surrounding context for 74:48 (people who did not pray, did not feed the poor, disbelieved) that is not present in the evidence packet. No verses from Al-Muddaththir other than 74:48 are included in the packet, so this contextual claim imports outside knowledge."
+    },
+    {
+     "quote": "The pronoun 'they' refers to beings described in surrounding verses as servitors of God — context in the packet does not specify further.",
+     "why": "The article asserts that the pronoun in 21:28 refers to beings described in surrounding verses as 'servitors of God.' No surrounding verses of 21:28 are in the packet, so this identification of the referent draws on outside knowledge."
+    },
+    {
+     "quote": "Lane's lexicon records that shafa'ahu means 'he made it to be a pair; he made it to be even'",
+     "why": "The packet's Lane entry for 'شَفَعَهُ' gives the gloss 'He made it to be a; he made it; to be a' — not 'he made it to be a pair; he made it to be even.' The article quotes a smoother, more complete gloss than what the packet actually contains, attributing wording not found in the packet."
+    },
+    {
+     "quote": "as a noun (shafā'a, shafī', shāfi'), as a verb (yashfa'u), and in the distinct nominal form shaf' at (Al-Fajr 89:3)",
+     "why": "The article states the root appears 'as a noun (shafā'a, shafī', shāfi')' listing three noun forms, but the packet also lists 'شافِع' (shāfi') with count 2 — this is consistent. However, the article counts '30 relevant occurrences' in the summary section ('these 30 relevant occurrences') while the packet states total_occurrences is 31. The article subtracts 89:3 as non-intercession, giving 30, but presents this as a packet-supported count without noting it is the author's own subtraction."
+    }
+   ],
+   "warnings": [
+    {
+     "quote": "Yusuf Ali renders the same verse: 'None shall have the power of intercession, but such a one as has received permission from Most Gracious.' The two translations differ — 'made a covenant' vs. 'received permission' — reflecting an Arabic ambiguity",
+     "why": "The packet's Yusuf Ali translation of 19:87 reads 'None shall have the power of intercession, but such a one as has received permission from Most Gracious.' The article correctly notes the divergence, but then attributes it to ambiguity in the Arabic word 'ahd.' The packet does not contain a lexical entry for 'ahd' so the claim about what 'ahd can mean' is outside knowledge, though it is flagged as uncertain."
+    },
+    {
+     "quote": "the lexicon records tashaffa'a as 'he sought intercession'",
+     "why": "The packet's entry for 'تشفّع' gives 'It was made a pair; couple; He was granted intercession' — not 'he sought intercession.' The article's gloss misrepresents the packet entry. The entry for seeking intercession is 'اِسْتَشْفَعْتُهُ إِلَى فُلَانٍ', not tashaffa'a."
+    },
+    {
+     "quote": "The Quran's position, as these 30 relevant occurrences present it",
+     "why": "The packet lists 31 total occurrences. The article presents '30 relevant' as if this count is packet-derived, but it is the author's own editorial subtraction of 89:3; this arithmetic is not in the packet."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": false
+  },
+  {
+   "n": 2,
+   "mechanical": [],
+   "critical": [],
+   "warnings": [
+    {
+     "quote": "making it one of the more thoroughly distributed theological terms in the text",
+     "why": "The packet confirms 31 total occurrences for sh-f-3, but provides no comparative frequency data for other theological roots, so the claim that this makes it 'one of the more thoroughly distributed' terms is unsupported generalisation."
+    },
+    {
+     "quote": "Lane records that the base verb shafiʿa means 'he made it to be a pair' (authorities cited include S, Mgh, Msb, K, TA)",
+     "why": "The packet's Lane entry headword is 'شَفَعَهُ' with gloss 'He made it to be a; he made it; to be a' — the article renders this more cleanly than the packet text supports, though the authorities listed are accurate. Minor risk of presenting a tidied gloss as settled lexical fact."
+    },
+    {
+     "quote": "The exception clause is never elaborated into a list of permitted intercessors, nor is the scope of 'whom He chooses' defined within the packet.",
+     "why": "This is a reasonable interpretive summary, but presenting it as a firm finding slightly overstates certainty; the article itself later notes 43:86 and 21:28 gesture at categories. Low concern, noted for transparency."
+    },
+    {
+     "quote": "Az-Zukhruf 43:86 gestures at 'him who beareth witness unto the Truth knowingly' and Al-Anbiyāʾ 21:28 mentions those for whom God is 'pleased,' but neither resolves to a specific category of persons.",
+     "why": "Reasonable reading, but 21:28 Pickthall says 'him whom He accepteth' not specifically 'those for whom God is pleased' — minor paraphrase divergence from packet translation, not a critical mistranslation."
+    }
+   ],
+   "checked_claims": 47,
+   "passed": true
+  }
+ ]
+}
